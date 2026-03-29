@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Mini Tweed Bouquet Pink",
+    "price": 50000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_pink50(6).jpeg",
+    "badge": "best"
+  },
+  {
+    "name": "Standard Tweed Bouquet Pink",
+    "price": 70000,
+    "category": "tweed",
+    "size": "standard",
+    "image": "images/products/standard_tweed_pink70(3).jpeg",
+    "badge": "best"
+  },
+  {
+    "name": "Strawberry Bouquet",
+    "price": 130000,
+    "category": "classic",
+    "size": "standard",
+    "image": "images/products/standard_classic_strawberry30pcs130(5).jpeg",
+    "badge": "best"
+  },
+  {
+    "name": "Standard Round Bouquet Pink",
+    "price": 135000,
+    "category": "round",
+    "size": "standard",
+    "image": "images/products/standard_round_pink135(3).jpeg",
+    "badge": "best"
+  },
+
+
+
+
+
+
+
+
+  {
+    "name": "Mini Character Bouquet Kelinci",
+    "price": 20000,
+    "category": "character",
+    "size": "mini",
+    "image": "images/products/mini_character_kelinci20(1).jpeg"
+  },
+
+  {
+    "name": "Mini Character Bouquet Bebek",
+    "price": 20000,
+    "category": "character",
+    "size": "mini",
+    "image": "images/products/mini_character_duck20(2).jpeg"
+  },
+
+  {
+    "name": "Mini Character Bouquet Loopy",
+    "price": 20000,
+    "category": "character",
+    "size": "mini",
+    "image": "images/products/mini_character_loopy20(3).jpeg"
+  },
+
+  {
+    "name": "Mini Character Bouquet Harimau",
+    "price": 20000,
+    "category": "character",
+    "size": "mini",
+    "image": "images/products/mini_character_tiger20(4).jpeg"
+  },
+
+  {
+    "name": "Mini Character Bouquet Kucing",
+    "price": 20000,
+    "category": "character",
+    "size": "mini",
+    "image": "images/products/mini_character_kitty20(5).jpeg"
+  },
+
+
+
+
+
+
+  {
+    "name": "Mini Classic Bouquet Pink",
+    "price": 30000,
+    "category": "classic",
+    "size": "mini",
+    "image": "images/products/mini_classic_pink30(1).jpeg"
+  },
+
+  {
+    "name": "Mini Classic Bouquet Kuning",
+    "price": 30000,
+    "category": "classic",
+    "size": "mini",
+    "image": "images/products/mini_classic_kuning30(2).jpeg"
+  },
+
+  {
+    "name": "Mini Classic Bouquet Orange",
+    "price": 30000,
+    "category": "classic",
+    "size": "mini",
+    "image": "images/products/mini_classic_oren30(3).jpeg"
+  },
+
+  {
+    "name": "Mini Classic Bouquet Kuning",
+    "price": 20000,
+    "category": "classic",
+    "size": "mini",
+    "image": "images/products/mini_classic_kuning20(4).jpeg"
+  },
+
+  {
+    "name": "Mini Classic Bouquet Ungu",
+    "price": 20000,
+    "category": "classic",
+    "size": "mini",
+    "image": "images/products/mini_classic_ungu20(5).jpeg"
+  },
+
+  {
+    "name": "Mini Classic Bouquet Barbie",
+    "price": 20000,
+    "category": "classic",
+    "size": "mini",
+    "image": "images/products/mini_classic_barbie20(6).jpeg"
+  },
+
+  {
+    "name": "Mini Classic Bouquet Pink",
+    "price": 20000,
+    "category": "classic",
+    "size": "mini",
+    "image": "images/products/mini_classic_pink20(7).jpeg"
+  },
+
+  {
+    "name": "Mini Classic Bouquet Biru",
+    "price": 30000,
+    "category": "classic",
+    "size": "mini",
+    "image": "images/products/mini_classic_biru30(8).jpeg"
+  },
+
+
+
+
+
+
+
+  {
+    "name": "Mini Hand Bouquet Tosca",
+    "price": 30000,
+    "category": "special",
+    "size": "mini",
+    "image": "images/products/mini_hand_tosca30(1).jpeg"
+  },
+
+  {
+    "name": "Mini Hand Bouquet Mix Warna",
+    "price": 30000,
+    "category": "special",
+    "size": "mini",
+    "image": "images/products/mini_hand_mix30(2).jpeg"
+  },
+
+  {
+    "name": "Mini Hand Bouquet Biru",
+    "price": 30000,
+    "category": "special",
+    "size": "mini",
+    "image": "images/products/mini_hand_biru30(3).jpeg"
+  },
+
+  {
+    "name": "Mini Hand Bouquet Pink",
+    "price": 30000,
+    "category": "special",
+    "size": "mini",
+    "image": "images/products/mini_hand_pink30(4).jpeg"
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Mini Tweed Bouquet Biru",
+    "price": 40000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_biru40(1).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Pink",
+    "price": 40000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_pink40(2).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Pink",
+    "price": 40000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_pink40(3).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Ungu",
+    "price": 45000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_ungu45(4).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Barbie",
+    "price": 50000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_barbie50(5).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Barbie",
+    "price": 40000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_barbie40(7).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Coklat",
+    "price": 45000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_coklat45(8).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Coklat",
+    "price": 45000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_coklat45(9).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Pink",
+    "price": 45000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_pink45(10).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Kuning",
+    "price": 40000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_kuning40(11).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Biru",
+    "price": 45000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_biru45(12).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Wine",
+    "price": 45000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_wine45(13).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Tosca",
+    "price": 40000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_tosca40(14).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Maroon",
+    "price": 40000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_maroon40(15).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Wine",
+    "price": 40000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_wine40(16).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Biru x Ungu",
+    "price": 50000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_biruxungu50(17).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Kuning",
+    "price": 50000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_kuning50(18).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Biru",
+    "price": 50000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_biru50(19).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Navy",
+    "price": 50000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_navy50(20).jpeg"
+  },
+
+  {
+    "name": "Mini Tweed Bouquet Soft Pink",
+    "price": 50000,
+    "category": "tweed",
+    "size": "mini",
+    "image": "images/products/mini_tweed_softpink50(21).jpeg"
+  }
+
+]
