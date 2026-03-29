@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Shop | Pooly Bloom</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- NAVBAR (COPY DARI INDEX, JANGAN DIUBAH) -->
+<nav class="navbar">
+
+<div class="logo">
+<img src="images/icons/pooly-bloom-logo.png">
+<span>Pooly Bloom</span>
+</div>
+
+<div class="nav-right">
+
+<div class="cart" id="cart-icon">
+🛒 <span id="cart-count">0</span>
+</div>
+
+<div class="menu-toggle" id="menu-toggle">☰</div>
+
+</div>
+
+<ul class="nav-links" id="nav-menu">
+
+<li class="mobile-menu-header">
+<span class="menu-title">Menu 🌸</span>
+<span class="close-menu" id="close-menu">✕</span>
+</li>
+
+<li><a href="index.html">🏡 Home</a></li>
+<li><a href="shop.html">🛍️ Shop</a></li>
+<li><a href="occasions.html">🎀 Occasions</a></li>
+<li><a href="feedback.html">💬 Feedback</a></li>
+<li><a href="about.html">💌 About</a></li>
+<li><a href="contact.html">📞 Contact</a></li>
+
+</ul>
+
+</nav>
+
+<!-- HEADER -->
+<section class="shop-header">
+
+<h1>🛍️ Our Collection</h1>
+<p>Pilih bouquet favorit kamu 🌸</p>
+<input type="text" id="search-input" placeholder="Cari warna dan detail bouquet... 🌸">
+
+</section>
+
+<!-- FILTER CATEGORY -->
+<section class="shop-filter">
+
+<select id="sort-select">
+<option value="">Sort</option>
+<option value="low">Harga Termurah</option>
+<option value="high">Harga Termahal</option>
+</select>
+
+<!-- CATEGORY COMBO -->
+<select id="category-select">
+<option value="all">All Category</option>
+<option value="tweed">Tweed Bouquet</option>
+<option value="classic">Classic Bouquet</option>
+<option value="character">Character Bouquet</option>
+<option value="special">Special Bouquet</option>
+<option value="flowerbox">Flower Box</option>
+<option value="keychain">Key Chain</option>
+<option value="round">Round Bouquet</option>
+<option value="figure">Figure</option>
+</select>
+
+<!-- SIZE COMBO -->
+<select id="size-select">
+<option value="all">All Size</option>
+<option value="mini">Mini</option>
+<option value="standard">Standard</option>
+<option value="big">Big</option>
+</select>
+
+</section>
+
+<!-- PRODUCT GRID -->
+<section class="shop-products">
+
+<div class="shop-container" id="shop-container"></div>
+
+</section>
+
+<!-- CART POPUP (COPY DARI INDEX) -->
+<!-- PENTING: HARUS ADA -->
+<div id="cart-notification">Product added to cart 🛒</div>
+
+<div id="cart-popup">
+<div class="cart-header">
+<h2>🛒 Your Bloom Cart</h2>
+<span id="close-cart">✕</span>
+</div>
+
+<div id="cart-items"></div>
+
+<div class="cart-footer">
+<h3>Total: Rp <span id="cart-total">0</span></h3>
+<button id="checkout-btn">Checkout</button>
+</div>
+</div>
+
+<div id="checkout-form">
+<div class="checkout-box">
+
+<h2>Isi Data Pesanan 🌷</h2>
+
+<input type="text" id="cust-name" placeholder="Nama Kamu">
+<input type="text" id="cust-phone" placeholder="No HP / WhatsApp">
+
+<label>Tanggal Pengambilan</label>
+<input type="date" id="pickup-date">
+
+<p class="note">Pengambilan minimal H+2 ya 💗</p>
+
+<button id="send-order">Kirim Pesanan 🌸</button>
+
+<span id="close-checkout">✕</span>
+
+</div>
+</div>
+
+<div id="product-popup">
+
+<div class="popup-content">
+
+<span id="close-popup">✕</span>
+
+<img id="popup-img">
+
+<h3 id="popup-name"></h3>
+
+<p id="popup-price"></p>
+
+<button id="popup-cart-btn">Add to Cart 🛒</button>
+
+</div>
+
+</div>
+
+<footer class="footer">
+<p>© 2026 Pooly Bloom 🌸</p>
+</footer>
+
+<script src="js/script.js" defer></script>
+<div class="overlay" id="overlay"></div>
+
+</body>
+</html>
