@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Occasion | Pooly Bloom</title>
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<!-- NAVBAR (copy dari index) -->
+<nav class="navbar">
+<div class="logo">
+<img src="images/icons/pooly-bloom-logo.png">
+<span>Pooly Bloom</span>
+</div>
+
+<div class="nav-right">
+<div class="cart" id="cart-icon">
+🛒 <span id="cart-count">0</span>
+</div>
+<div class="menu-toggle" id="menu-toggle">☰</div>
+</div>
+
+<ul class="nav-links" id="nav-menu">
+<li class="mobile-menu-header">
+<span class="menu-title">Menu 🌸</span>
+<span class="close-menu" id="close-menu">✕</span>
+</li>
+
+<li><a href="index.html">🏡 Home</a></li>
+<li><a href="shop.html">🛍️ Shop</a></li>
+<li><a href="feedback.html">💬 Feedback</a></li>
+<li><a href="about.html">💌 About</a></li>
+<li><a href="contact.html">📞 Contact</a></li>
+</ul>
+</nav>
+
+<!-- HEADER -->
+<section class="occasion-header">
+
+<h1 id="occasion-title">Perfect for 💖</h1>
+<p>Temukan bouquet terbaik untuk momen spesialmu 🌸</p>
+
+<input type="text" id="occasion-search" placeholder="Cari warna dan detail bouquet...">
+
+</section>
+
+<!-- FILTER -->
+<section class="shop-filter">
+
+<select id="occasion-sort">
+<option value="">Sort</option>
+<option value="low">Harga Termurah</option>
+<option value="high">Harga Termahal</option>
+</select>
+
+</section>
+
+<!-- PRODUCT -->
+<section class="shop-products">
+<div class="shop-container" id="occasion-container"></div>
+</section>
+
+<footer class="footer">
+<p>© 2025 Pooly Bloom 🌸</p>
+</footer>
+
+<script src="js/script.js"></script>
+
+<!-- CART NOTIFICATION -->
+<div id="cart-notification">
+Product added to cart 🛒
+</div>
+
+<!-- CART POPUP -->
+<div id="cart-popup">
+<div class="cart-header">
+<h2>🛒 Your Bloom Cart</h2>
+<span id="close-cart">✕</span>
+</div>
+
+<div id="cart-items"></div>
+
+<div class="cart-footer">
+<h3>Total: Rp <span id="cart-total">0</span></h3>
+<button id="checkout-btn">Checkout</button>
+</div>
+</div>
+
+<!-- CHECKOUT FORM -->
+<div id="checkout-form">
+<div class="checkout-box">
+
+<h2>Isi Data Pesanan 🌷</h2>
+
+<input type="text" id="cust-name" placeholder="Nama Kamu">
+<input type="text" id="cust-phone" placeholder="No HP / WhatsApp">
+
+<label>Tanggal Pengambilan</label>
+<input type="date" id="pickup-date">
+
+<p class="note">Pengambilan minimal H+2 ya 💗</p>
+
+<button id="send-order">Kirim Pesanan 🌸</button>
+
+<span id="close-checkout">✕</span>
+
+</div>
+</div>
+
+<div class="overlay" id="overlay"></div>
+
+</body>
+</html>
